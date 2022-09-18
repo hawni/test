@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
 nt main(){
-cout<<"hanaa"<<endl;
+cout<<"dddd"<<endl;
 return 0;
 }
